@@ -1,4 +1,4 @@
-```md
+
 # Water_Quality_Sampling_Compliance_Dashboard
 
 This repository contains a Power BI project developed to improve visibility and monitoring of Water Quality Sampling Program performance. The objective of this project is to consolidate sampling information from multiple sources into a single reporting solution to support compliance monitoring, contractor management, and operational decision-making.
