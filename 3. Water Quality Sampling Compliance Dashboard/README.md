@@ -36,7 +36,7 @@ The project consolidates information from multiple sources:
 ## Reports
 
 - `Reports/Water_Quality_Sampling_Dashboard.pbix` *(not shared)*
-- `Screenshot/dashboard.png`
+- `Screenshot/dashboard.png` (see the last section for screenshot)*
 
 **Important Note:** The data used in this report is company property and cannot be publicly shared. Visualisations shown below contain anonymised information only.
 
@@ -82,8 +82,8 @@ The dashboard identified locations that consistently had missing samples. Invest
 
 ### Dashboard Overview
 
-![Dashboard Screenshot #1](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/edit/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard/README.md)
+![Dashboard Screenshot #1](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/blob/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard/Screenshot_Dashboard_%231.png)
 ![Dashboard Screenshot #2](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/blob/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard/Screenshot_Dashboard_%232.png)
-![Dashboard Screenshot #3](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/edit/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard/README.md)
-![Dashboard Screenshot #4](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/edit/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard/README.md)
+![Dashboard Screenshot #3](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/blob/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard/Screenshot_Dashboard_%233.png)
+![Dashboard Screenshot #4](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/blob/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard/Screenshot_Dashboard_%234.png)
 ```
