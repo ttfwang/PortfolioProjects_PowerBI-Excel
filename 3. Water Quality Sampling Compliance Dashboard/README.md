@@ -82,6 +82,8 @@ The dashboard identified locations that consistently had missing samples. Invest
 
 ### Dashboard Overview
 
-![Dashboard Screenshot](Screenshot/dashboard_overview.PNG)
-
+![Dashboard Screenshot #1](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/edit/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard/README.md)
+![Dashboard Screenshot #2](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/blob/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard/Screenshot_Dashboard_%232.png)
+![Dashboard Screenshot #3](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/edit/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard/README.md)
+![Dashboard Screenshot #4](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/edit/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard/README.md)
 ```
