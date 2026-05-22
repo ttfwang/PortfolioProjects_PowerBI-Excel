@@ -82,6 +82,8 @@ The dashboard identified unusual usage patterns which supported investigations i
 
 ### Dashboard Overview
 
-![Dashboard Screenshot](Screenshot/dashboard_overview.PNG)
+![Dashboard Screenshot](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/blob/main/4.%20Recycled%20Water%20Customer%20Data%20Dashboard/Screenshot_Dashboard_%231.png)
+![Dashboard Screenshot](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/blob/main/4.%20Recycled%20Water%20Customer%20Data%20Dashboard/Screenshot_Dashboard_%232.png)
+![Dashboard Screenshot](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/blob/main/4.%20Recycled%20Water%20Customer%20Data%20Dashboard/Screenshot_Dashboard_%233.png)
 
 ```
