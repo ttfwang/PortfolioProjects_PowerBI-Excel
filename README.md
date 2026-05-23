@@ -21,7 +21,7 @@ This is the portfolio that records my Power BI and Excel data analysis project.
 #### [<small>3. Water Quality Sampling Compliance Dashboard</small>](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/3.%20Water%20Quality%20Sampling%20Compliance%20Dashboard)
 - **Tools**: Excel, Power BI and Microsoft SQL server.
 - **Description**: The objective of this project is to consolidate sampling information from multiple sources into a single reporting solution to support compliance monitoring, contractor management, and operational decision-making.
-- 
+  
 #### [<small>4. Recycled Water Customer Data Dashboard</small>](https://github.com/ttfwang/PortfolioProjects_PowerBI-Excel/tree/main/4.%20Recycled%20Water%20Customer%20Data%20Dashboard)
 - **Tools**: Excel, Power BI and Microsoft SQL server.
 - **Description**: The goal of this project is to focuse on improving how commercial recycled water customer information is collected, managed and reported.
