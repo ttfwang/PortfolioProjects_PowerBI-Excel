@@ -4,7 +4,7 @@
 
 ## About the portfolio
 
-This is the portfolio that to record my Power BI and Excel data analysis project.
+This is the portfolio that records my Power BI and Excel data analysis project.
 
 ---
 
